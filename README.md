@@ -3,5 +3,7 @@ Simple Bash Script designed to extract URL's and API Endpoints from the URL whic
 
 Kindly follow the below mentioned steps to run the script:
 **Step 1:** chmod +x APIandURLExtractor.sh
+
 **Step 2:** sed -i -e 's/\r$//' APIandURLExtractor.sh
+
 **Step 3:** ./APIandURLExtractor.sh
